@@ -43,12 +43,20 @@ Config.VendingMachines = {
         ['Label'] = 'Candy',
         ['Items'] = {
             [1] = {
-                ['name'] = "chocolate",
+                ['name'] = "twerks_candy",
                 ['price'] = 4,
                 ['amount'] = 50,
                 ['info'] = {},
                 ['type'] = "item",
                 ['slot'] = 1,
+            },
+            [2] = {
+                ['name'] = "snikkel_candy",
+                ['price'] = 4,
+                ['amount'] = 50,
+                ['info'] = {},
+                ['type'] = "item",
+                ['slot'] = 2,
             },
         }
     },
